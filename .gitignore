@@ -5,3 +5,7 @@ bin/
 pkg/
 wasm-pack.log
 .history
+
+www/node_modules
+www/dist/
+www/package-lock.json
